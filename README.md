@@ -68,9 +68,4 @@ The renderer process (`index.html` and `index.js`) must be debugged with help of
 
 See [section Startup speed](#startup-speed) above. If you observe a big delay at application startup, you should add the  development path of the application to your virus scanner exclusion list. This workaround may also help with other Electron applications.
 
-## Copyright and License
-
-This tool is made by Christian Dreier. If you find a copy somewhere, you find the original at [GitHub](https://github.com/c3er/mdview).
-
-You can use and copy this tool under the conditions of the MIT license.
 
