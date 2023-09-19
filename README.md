@@ -74,6 +74,3 @@ This tool is made by Christian Dreier. If you find a copy somewhere, you find th
 
 You can use and copy this tool under the conditions of the MIT license.
 
-## Further notes
-
-There is [a fork of this project](https://github.com/khatastroffik/mdview) by [Loïs Bégué](https://github.com/khatastroffik).
