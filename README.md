@@ -8,10 +8,6 @@ A standalone application that renders and displays Markdown files. It does nothi
 
 See [the flavor documentation](doc/flavor.md) for Markdown features additional to [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github).
 
-## Installation and usage
-
-You find the latest binaries and setup file [at GitHub](https://github.com/c3er/mdview/releases/latest). For Windows, there is an installer package and a ZIP archive. For Linux, there is an AppImage package.
-
 ### Windows
 
 The Windows setup file supports following parameters:
